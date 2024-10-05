@@ -11,7 +11,7 @@ echo -e ""
 echo -e "\033[0mSolar mini cursors - install/update script for Linux."
 echo -e "By Swee"
 echo "Downloading..."
-wget -q -O ~/solarmini.tar.gz https://swee.pythonanywhere.com/solar-mini.tar.gz
+wget -q -O ~/solarmini.tar.gz https://www.swee.codes/solar-mini.tar.gz
 echo "Extracting..."
 tar -xzf solarmini.tar.gz -C ~
 echo "Installing..."
